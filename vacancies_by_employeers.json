@@ -1,0 +1,1907 @@
+[
+  {
+    'items': [
+      {
+        'id': '110876556',
+        'premium': False,
+        'name': 'Бухгалтер',
+        'department': {
+          'id': '10413982-10413982-dev',
+          'name': 'Agalarov Development'
+        },
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': {
+          'from': None,
+          'to': 140000,
+          'currency': 'RUR',
+          'gross': False
+        },
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': 'Москва',
+          'street': 'Кутузовский проспект',
+          'building': '3',
+          'lat': 55.750368,
+          'lng': 37.569683,
+          'description': None,
+          'raw': 'Москва, Кутузовский проспект, 3',
+          'metro': {
+            'station_name': 'Киевская',
+            'line_name': 'Арбатско-Покровская',
+            'station_id': '3.47',
+            'line_id': '3',
+            'lat': 55.743117,
+            'lng': 37.564132
+          },
+          'metro_stations': [
+            {
+              'station_name': 'Киевская',
+              'line_name': 'Арбатско-Покровская',
+              'station_id': '3.47',
+              'line_id': '3',
+              'lat': 55.743117,
+              'lng': 37.564132
+            }
+          ],
+          'id': '14629507'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-11-13T13:12:58+0300',
+        'created_at': '2024-11-13T13:12:58+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=110876556',
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/110876556?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/110876556',
+        'relations': [],
+        'employer': {
+          'id': '10413982',
+          'name': 'Agalarov Development',
+          'url': 'https://api.hh.ru/employers/10413982',
+          'alternate_url': 'https://hh.ru/employer/10413982',
+          'logo_urls': None,
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=10413982',
+          'accredited_it_employer': False,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Высшее профильное образование. Опыт работы на аналогичной должности от 5-ти лет. Знание 1С-Предприятие 8.3, ЗУП, Word...',
+          'responsibility': 'Ведение всех участков бухгалтерского учета первичной документации нескольких юр.лиц на УСН и ОСНО. Контроль правильности оформления первичных документов. '
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'fullDay',
+          'name': 'Полный день'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '18',
+            'name': 'Бухгалтер'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'moreThan6',
+          'name': 'Более 6 лет'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '110863642',
+        'premium': False,
+        'name': 'Менеджер по работе с клиентами / Менеджер по передаче объектов недвижимости / Менеджер по заселению',
+        'department': None,
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': {
+          'from': None,
+          'to': 120000,
+          'currency': 'RUR',
+          'gross': False
+        },
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': 'Москва',
+          'street': 'Западный административный округ, район Раменки, жилой комплекс Вишнёвый Сад',
+          'building': None,
+          'lat': 55.718517,
+          'lng': 37.525199,
+          'description': None,
+          'raw': 'Москва, Западный административный округ, район Раменки, жилой комплекс Вишнёвый Сад',
+          'metro': {
+            'station_name': 'Киевская',
+            'line_name': 'Кольцевая',
+            'station_id': '5.49',
+            'line_id': '5',
+            'lat': 55.74361,
+            'lng': 37.56735
+          },
+          'metro_stations': [
+            {
+              'station_name': 'Киевская',
+              'line_name': 'Кольцевая',
+              'station_id': '5.49',
+              'line_id': '5',
+              'lat': 55.74361,
+              'lng': 37.56735
+            },
+            {
+              'station_name': 'Ломоносовский проспект',
+              'line_name': 'Солнцевская',
+              'station_id': '133.556',
+              'line_id': '133',
+              'lat': 55.7055,
+              'lng': 37.5225
+            }
+          ],
+          'id': '1250105'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-11-13T11:15:09+0300',
+        'created_at': '2024-11-13T11:15:09+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=110863642',
+        'show_logo_in_search': None,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/110863642?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/110863642',
+        'relations': [],
+        'employer': {
+          'id': '872241',
+          'name': 'AB Development',
+          'url': 'https://api.hh.ru/employers/872241',
+          'alternate_url': 'https://hh.ru/employer/872241',
+          'logo_urls': {
+            '240': 'https://img.hhcdn.ru/employer-logo/762447.png',
+            '90': 'https://img.hhcdn.ru/employer-logo/762446.png',
+            'original': 'https://img.hhcdn.ru/employer-logo-original/124735.png'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=872241',
+          'accredited_it_employer': False,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Релевантный опыт работы в сфере недвижимости (обязательно). Знание премиальных отделочных материалов, техники, мебели. Знание СНИПов, отделки, норм (как преимущество). ',
+          'responsibility': 'Сопровождение клиента при выборе планировки и отделки квартиры, обсуждение вариантов. Подготовка документов для передачи квартир. Организация и сопровождение передачи квартир...'
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'fullDay',
+          'name': 'Полный день'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '70',
+            'name': 'Менеджер по продажам, менеджер по работе с клиентами'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'between3And6',
+          'name': 'От 3 до 6 лет'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '108954670',
+        'premium': False,
+        'name': 'Middle QA Manual',
+        'department': None,
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': None,
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': None,
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-11-11T11:33:25+0300',
+        'created_at': '2024-11-11T11:33:25+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=108954670',
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/108954670?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/108954670',
+        'relations': [],
+        'employer': {
+          'id': '11156224',
+          'name': 'Concurrency Development LTD',
+          'url': 'https://api.hh.ru/employers/11156224',
+          'alternate_url': 'https://hh.ru/employer/11156224',
+          'logo_urls': None,
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=11156224',
+          'accredited_it_employer': False,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Аналогичный опыт работы QA Manual от 2-х лет. Преимуществом будет опыт в индустрии iGaming/High-Risk. Уверенное понимание процессов...',
+          'responsibility': 'Проводить тестирование требований. Осуществлять проектирование тест-кейсов, чек-листов, используя практики тест-дизайна. Проведение функционального, интеграционного и регрессионного тестирования. '
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'fullDay',
+          'name': 'Полный день'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '124',
+            'name': 'Тестировщик'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'between1And3',
+          'name': 'От 1 года до 3 лет'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '110888705',
+        'premium': False,
+        'name': 'Бухгалтер на участок Банк-Клиент',
+        'department': {
+          'id': '10413982-10413982-emin',
+          'name': 'Restaurants by Emin Agalarov'
+        },
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': {
+          'from': 90000,
+          'to': 100000,
+          'currency': 'RUR',
+          'gross': False
+        },
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': None,
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-11-13T15:14:33+0300',
+        'created_at': '2024-11-13T15:14:33+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=110888705',
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/110888705?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/110888705',
+        'relations': [],
+        'employer': {
+          'id': '10413982',
+          'name': 'Agalarov Development',
+          'url': 'https://api.hh.ru/employers/10413982',
+          'alternate_url': 'https://hh.ru/employer/10413982',
+          'logo_urls': None,
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=10413982',
+          'accredited_it_employer': False,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Знание 1С Бухгалтерия 8.3, план счетов бухгалтерского учета, умение работать с банк-клиентами различных банков. Опыт работы в...',
+          'responsibility': 'Формирование платежных поручений на оплату. Согласование реестра платежей. Выгрузка выписок из банк-клиента в 1С. Ежедневное проведение выписок в...'
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'fullDay',
+          'name': 'Полный день'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '18',
+            'name': 'Бухгалтер'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'between1And3',
+          'name': 'От 1 года до 3 лет'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '110801400',
+        'premium': False,
+        'name': 'Водитель',
+        'department': {
+          'id': '10413982-10413982-emin',
+          'name': 'Restaurants by Emin Agalarov'
+        },
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': {
+          'from': 80000,
+          'to': None,
+          'currency': 'RUR',
+          'gross': False
+        },
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': 'Москва',
+          'street': 'Московское центральное кольцо',
+          'building': 'станция Лужники',
+          'lat': 55.720834,
+          'lng': 37.560323,
+          'description': None,
+          'raw': 'Москва, Московское центральное кольцо, станция Лужники',
+          'metro': {
+            'station_name': 'Воробьевы горы',
+            'line_name': 'Сокольническая',
+            'station_id': '1.165',
+            'line_id': '1',
+            'lat': 55.709169,
+            'lng': 37.557293
+          },
+          'metro_stations': [
+            {
+              'station_name': 'Воробьевы горы',
+              'line_name': 'Сокольническая',
+              'station_id': '1.165',
+              'line_id': '1',
+              'lat': 55.709169,
+              'lng': 37.557293
+            },
+            {
+              'station_name': 'Киевская',
+              'line_name': 'Арбатско-Покровская',
+              'station_id': '3.47',
+              'line_id': '3',
+              'lat': 55.743117,
+              'lng': 37.564132
+            },
+            {
+              'station_name': 'Лужники',
+              'line_name': 'МЦК',
+              'station_id': '95.535',
+              'line_id': '95',
+              'lat': 55.720278,
+              'lng': 37.563056
+            },
+            {
+              'station_name': 'Спортивная',
+              'line_name': 'Сокольническая',
+              'station_id': '1.135',
+              'line_id': '1',
+              'lat': 55.722388,
+              'lng': 37.562041
+            }
+          ],
+          'id': '15578275'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-11-12T15:43:21+0300',
+        'created_at': '2024-11-12T15:43:21+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=110801400',
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/110801400?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/110801400',
+        'relations': [],
+        'employer': {
+          'id': '10413982',
+          'name': 'Agalarov Development',
+          'url': 'https://api.hh.ru/employers/10413982',
+          'alternate_url': 'https://hh.ru/employer/10413982',
+          'logo_urls': None,
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=10413982',
+          'accredited_it_employer': False,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Опыт работы на автомобилях компаний не менее 3х лет. Физическая выносливость. Профессиональное, быстрое, но безопасное и аккуратное вождение.',
+          'responsibility': 'Следить за техническим состоянием автомобиля, выполнять самостоятельно необходимые работы по обеспечению его безопасности эксплуатации (согласно инструкции по эксплуатации) своевременно проходить...'
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'fullDay',
+          'name': 'Полный день'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '21',
+            'name': 'Водитель'
+          }
+        ],
+        'accept_incomplete_resumes': True,
+        'experience': {
+          'id': 'between1And3',
+          'name': 'От 1 года до 3 лет'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '108717779',
+        'premium': False,
+        'name': 'Оператор службы проката горнолыжного оборудования (Сезонная вакансия)',
+        'department': None,
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '160',
+          'name': 'Алматы',
+          'url': 'https://api.hh.ru/areas/160'
+        },
+        'salary': {
+          'from': 280000,
+          'to': 280000,
+          'currency': 'KZT',
+          'gross': False
+        },
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': None,
+          'street': None,
+          'building': None,
+          'lat': 43.19516843209209,
+          'lng': 76.98778012767436,
+          'description': None,
+          'raw': 'Алматы, ул. Горная 640 (Горнолыжный курорт Шымбулак)',
+          'metro': None,
+          'metro_stations': [],
+          'id': '184058'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-10-16T10:14:46+0300',
+        'created_at': '2024-10-16T10:14:46+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=108717779',
+        'show_logo_in_search': None,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/108717779?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/108717779',
+        'relations': [],
+        'employer': {
+          'id': '1083528',
+          'name': 'Chimbulak Development',
+          'url': 'https://api.hh.ru/employers/1083528',
+          'alternate_url': 'https://hh.ru/employer/1083528',
+          'logo_urls': {
+            '240': 'https://img.hhcdn.ru/employer-logo/6960651.png',
+            'original': 'https://img.hhcdn.ru/employer-logo-original/1335160.png',
+            '90': 'https://img.hhcdn.ru/employer-logo/6960650.png'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=1083528',
+          'accredited_it_employer': False,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Высшее, среднее-специальное образование. Опыт работы с клиентами. Свободное знание казахского и русского языков, английский язык будет преимуществом. ',
+          'responsibility': 'Консультирование клиентов по подбору горнолыжного оборудования. Консультирование клиентов о состоянии склонов и всех услуг курорта. Выдача и прием прокатного горнолыжного...'
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'fullDay',
+          'name': 'Полный день'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': True,
+        'professional_roles': [
+          {
+            'id': '40',
+            'name': 'Другое'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'between1And3',
+          'name': 'От 1 года до 3 лет'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '110255063',
+        'premium': False,
+        'name': 'QA Junior+ (удаленно, можно работать из-за границы)',
+        'department': None,
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': {
+          'from': 80000,
+          'to': 100000,
+          'currency': 'RUR',
+          'gross': False
+        },
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': None,
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-11-12T15:40:21+0300',
+        'created_at': '2024-11-12T15:40:21+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=110255063',
+        'show_logo_in_search': None,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/110255063?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/110255063',
+        'relations': [],
+        'employer': {
+          'id': '5724503',
+          'name': 'Amex Development',
+          'url': 'https://api.hh.ru/employers/5724503',
+          'alternate_url': 'https://hh.ru/employer/5724503',
+          'logo_urls': {
+            'original': 'https://img.hhcdn.ru/employer-logo-original/893736.png',
+            '90': 'https://img.hhcdn.ru/employer-logo/4015631.png',
+            '240': 'https://img.hhcdn.ru/employer-logo/4015632.png'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=5724503',
+          'accredited_it_employer': True,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Высшее техническое образование. Опыт работы на крупном проекте от 1 года. Опыт с внешними интеграциями. Опыт работы с REST API. ',
+          'responsibility': 'Проект: Кодовое название "цифровая платформа". Несколько направлений. Сбор сервисов направленных на поиск, приобретение первичной, вторичной недвижимости и большой ряд дополнительных...'
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'remote',
+          'name': 'Удаленная работа'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '124',
+            'name': 'Тестировщик'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'between1And3',
+          'name': 'От 1 года до 3 лет'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '110842491',
+        'premium': False,
+        'name': 'Бухгалтер',
+        'department': None,
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '160',
+          'name': 'Алматы',
+          'url': 'https://api.hh.ru/areas/160'
+        },
+        'salary': None,
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': None,
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-11-13T08:29:08+0300',
+        'created_at': '2024-11-13T08:29:08+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=110842491',
+        'branding': {
+          'type': 'MAKEUP',
+          'tariff': None
+        },
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/110842491?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/110842491',
+        'relations': [],
+        'employer': {
+          'id': '10808234',
+          'name': 'BI Development Almaty',
+          'url': 'https://api.hh.ru/employers/10808234',
+          'alternate_url': 'https://hh.ru/employer/10808234',
+          'logo_urls': None,
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=10808234',
+          'accredited_it_employer': False,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Образование - высшее профессиональное образование. Опыт работы - не менее 3-х лет. Знание: «Бухгалтерия 1С», Международные Стандарты Финансовой Отчетности, Гражданское...',
+          'responsibility': 'Своевременный учет расчетов с клиентами. Обработка служебных записок, заявлений от клиентов, приказов на списание и перерасчет по начислениям за услуги...'
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'fullDay',
+          'name': 'Полный день'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '18',
+            'name': 'Бухгалтер'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'between1And3',
+          'name': 'От 1 года до 3 лет'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '110815923',
+        'premium': False,
+        'name': 'Видеооператор',
+        'department': {
+          'id': '10413982-10413982-media',
+          'name': 'ЖАРА Media'
+        },
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': {
+          'from': None,
+          'to': 80460,
+          'currency': 'RUR',
+          'gross': True
+        },
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': 'Красногорск',
+          'street': 'Международная улица',
+          'building': '12',
+          'lat': 55.821032,
+          'lng': 37.386202,
+          'description': None,
+          'raw': 'Красногорск, Международная улица, 12',
+          'metro': {
+            'station_name': 'Мякинино',
+            'line_name': 'Арбатско-Покровская',
+            'station_id': '3.181',
+            'line_id': '3',
+            'lat': 55.823342,
+            'lng': 37.385214
+          },
+          'metro_stations': [
+            {
+              'station_name': 'Мякинино',
+              'line_name': 'Арбатско-Покровская',
+              'station_id': '3.181',
+              'line_id': '3',
+              'lat': 55.823342,
+              'lng': 37.385214
+            }
+          ],
+          'id': '14491833'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-11-12T18:12:06+0300',
+        'created_at': '2024-11-12T18:12:06+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=110815923',
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/110815923?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/110815923',
+        'relations': [],
+        'employer': {
+          'id': '10413982',
+          'name': 'Agalarov Development',
+          'url': 'https://api.hh.ru/employers/10413982',
+          'alternate_url': 'https://hh.ru/employer/10413982',
+          'logo_urls': None,
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=10413982',
+          'accredited_it_employer': False,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Опыт работы видеооператором от 1 года. Готовность к обучению. Коммуникабельность, грамотная речь, пунктуальность, исполнительность, ответственный подход к работе. ',
+          'responsibility': 'Съемка сюжетов, программ, концертов, промо, прямых эфиров согласно утвержденному редакторскому плану. Установка специализированного освещения, контроль работы осветителей, качества эффектов, светового...'
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'shift',
+          'name': 'Сменный график'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '20',
+            'name': 'Видеооператор, видеомонтажер'
+          }
+        ],
+        'accept_incomplete_resumes': True,
+        'experience': {
+          'id': 'between1And3',
+          'name': 'От 1 года до 3 лет'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '110364107',
+        'premium': False,
+        'name': 'Менеджер по продажам в детском клубе (удаленный формат)',
+        'department': None,
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '160',
+          'name': 'Алматы',
+          'url': 'https://api.hh.ru/areas/160'
+        },
+        'salary': {
+          'from': 150000,
+          'to': 150000,
+          'currency': 'KZT',
+          'gross': False
+        },
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': None,
+          'street': None,
+          'building': None,
+          'lat': 43.19516843209209,
+          'lng': 76.98778012767436,
+          'description': None,
+          'raw': 'Алматы, ул. Горная 640 (Горнолыжный курорт Шымбулак)',
+          'metro': None,
+          'metro_stations': [],
+          'id': '184058'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-11-08T08:12:39+0300',
+        'created_at': '2024-11-08T08:12:39+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=110364107',
+        'show_logo_in_search': None,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/110364107?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/110364107',
+        'relations': [],
+        'employer': {
+          'id': '1083528',
+          'name': 'Chimbulak Development',
+          'url': 'https://api.hh.ru/employers/1083528',
+          'alternate_url': 'https://hh.ru/employer/1083528',
+          'logo_urls': {
+            '240': 'https://img.hhcdn.ru/employer-logo/6960651.png',
+            'original': 'https://img.hhcdn.ru/employer-logo-original/1335160.png',
+            '90': 'https://img.hhcdn.ru/employer-logo/6960650.png'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=1083528',
+          'accredited_it_employer': False,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Опыт работы в продажах (опыт в детских организациях будет преимуществом). Умение грамотно и эффективно общаться с клиентами, выявлять их потребности. ',
+          'responsibility': 'Активный поиск и привлечение новых клиентов для участия в программах и мероприятиях детского клуба. Проведение консультаций для родителей по услугам...'
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'remote',
+          'name': 'Удаленная работа'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '70',
+            'name': 'Менеджер по продажам, менеджер по работе с клиентами'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'between1And3',
+          'name': 'От 1 года до 3 лет'
+        },
+        'employment': {
+          'id': 'part',
+          'name': 'Частичная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '110606838',
+        'premium': False,
+        'name': 'Оператор спецтехники',
+        'department': None,
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '160',
+          'name': 'Алматы',
+          'url': 'https://api.hh.ru/areas/160'
+        },
+        'salary': {
+          'from': 340000,
+          'to': 340000,
+          'currency': 'KZT',
+          'gross': False
+        },
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': None,
+          'street': None,
+          'building': None,
+          'lat': 43.19516843209209,
+          'lng': 76.98778012767436,
+          'description': None,
+          'raw': 'Алматы, ул. Горная 640 (Горнолыжный курорт Шымбулак)',
+          'metro': None,
+          'metro_stations': [],
+          'id': '184058'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-11-11T09:59:40+0300',
+        'created_at': '2024-11-11T09:59:40+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=110606838',
+        'show_logo_in_search': None,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/110606838?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/110606838',
+        'relations': [],
+        'employer': {
+          'id': '1083528',
+          'name': 'Chimbulak Development',
+          'url': 'https://api.hh.ru/employers/1083528',
+          'alternate_url': 'https://hh.ru/employer/1083528',
+          'logo_urls': {
+            '240': 'https://img.hhcdn.ru/employer-logo/6960651.png',
+            'original': 'https://img.hhcdn.ru/employer-logo-original/1335160.png',
+            '90': 'https://img.hhcdn.ru/employer-logo/6960650.png'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=1083528',
+          'accredited_it_employer': False,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Наличие водительского удостоверения В,С. Наличие водительского удостоверения на спецтехнику. Пунктуальность, ответственность, готовность работать в высоком ритме. Умение аккуратно и...',
+          'responsibility': 'Работа на спецтехнике (снегоуплотнительная - ратрак, гусеничный эксковатор, фронтальный погрузчик).'
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'fullDay',
+          'name': 'Полный день'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '40',
+            'name': 'Другое'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'between3And6',
+          'name': 'От 3 до 6 лет'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '110874930',
+        'premium': False,
+        'name': 'Менеджер объекта',
+        'department': None,
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '205',
+          'name': 'Шымкент',
+          'url': 'https://api.hh.ru/areas/205'
+        },
+        'salary': None,
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': None,
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-11-13T12:51:57+0300',
+        'created_at': '2024-11-13T12:51:57+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=110874930',
+        'branding': {
+          'type': 'MAKEUP',
+          'tariff': None
+        },
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/110874930?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/110874930',
+        'relations': [],
+        'employer': {
+          'id': '10808234',
+          'name': 'BI Development Almaty',
+          'url': 'https://api.hh.ru/employers/10808234',
+          'alternate_url': 'https://hh.ru/employer/10808234',
+          'logo_urls': None,
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=10808234',
+          'accredited_it_employer': False,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Высшее образование. Опыт работы в клиентском сервисе не менее 1 года. Работа с программным обеспечением: MS Word, Excel, Visio, Power...',
+          'responsibility': 'Ежедневный обход жилого комплекса. Контроль и обработка заявок от жителей (КСК/ЖКХ сфера). Контролировать работу охраны, домофонной, лифтовой, клининговых служб. '
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'fullDay',
+          'name': 'Полный день'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '76',
+            'name': 'Менеджер/руководитель АХО'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'between1And3',
+          'name': 'От 1 года до 3 лет'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '109140971',
+        'premium': False,
+        'name': 'Администратор офиса (Shymbulak)',
+        'department': None,
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '160',
+          'name': 'Алматы',
+          'url': 'https://api.hh.ru/areas/160'
+        },
+        'salary': {
+          'from': 250000,
+          'to': 250000,
+          'currency': 'KZT',
+          'gross': False
+        },
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': 'Алматы',
+          'street': 'Медеуский район, улица Керей-Жанибек Хандар',
+          'building': '640/1',
+          'lat': 43.16294,
+          'lng': 77.051493,
+          'description': None,
+          'raw': 'Алматы, Медеуский район, улица Керей-Жанибек Хандар, 640/1',
+          'metro': None,
+          'metro_stations': [],
+          'id': '6866445'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-11-13T15:59:24+0300',
+        'created_at': '2024-11-13T15:59:24+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=109140971',
+        'show_logo_in_search': None,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/109140971?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/109140971',
+        'relations': [],
+        'employer': {
+          'id': '1083528',
+          'name': 'Chimbulak Development',
+          'url': 'https://api.hh.ru/employers/1083528',
+          'alternate_url': 'https://hh.ru/employer/1083528',
+          'logo_urls': {
+            '240': 'https://img.hhcdn.ru/employer-logo/6960651.png',
+            'original': 'https://img.hhcdn.ru/employer-logo-original/1335160.png',
+            '90': 'https://img.hhcdn.ru/employer-logo/6960650.png'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=1083528',
+          'accredited_it_employer': False,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Грамотная речь, знание казахского и русского языков. Знание стандартных офисных программ (MS Office). Обязательно позитивный настрой. Стрессоустойчивость и инициативность (способность...',
+          'responsibility': 'Встреча посетителей офиса. Организация совещаний. Регистрация писем, учет, распределение, хранение, архивирование документов. Подготовка писем, запросов и других документов, касающихся деятельности...'
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'fullDay',
+          'name': 'Полный день'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '88',
+            'name': 'Офис-менеджер'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'between1And3',
+          'name': 'От 1 года до 3 лет'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '110623307',
+        'premium': False,
+        'name': 'Бармен в ресторан Mela',
+        'department': {
+          'id': '10413982-10413982-emin',
+          'name': 'Restaurants by Emin Agalarov'
+        },
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': {
+          'from': 110000,
+          'to': None,
+          'currency': 'RUR',
+          'gross': False
+        },
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': 'Москва',
+          'street': 'Филёвская линия',
+          'building': 'метро Арбатская',
+          'lat': 55.75207,
+          'lng': 37.601367,
+          'description': None,
+          'raw': 'Москва, Филёвская линия, метро Арбатская',
+          'metro': {
+            'station_name': 'Александровский сад',
+            'line_name': 'Филевская',
+            'station_id': '4.6',
+            'line_id': '4',
+            'lat': 55.752255,
+            'lng': 37.608775
+          },
+          'metro_stations': [
+            {
+              'station_name': 'Александровский сад',
+              'line_name': 'Филевская',
+              'station_id': '4.6',
+              'line_id': '4',
+              'lat': 55.752255,
+              'lng': 37.608775
+            },
+            {
+              'station_name': 'Арбатская',
+              'line_name': 'Арбатско-Покровская',
+              'station_id': '3.5',
+              'line_id': '3',
+              'lat': 55.752312,
+              'lng': 37.60349
+            },
+            {
+              'station_name': 'Арбатская',
+              'line_name': 'Филевская',
+              'station_id': '4.11',
+              'line_id': '4',
+              'lat': 55.752122,
+              'lng': 37.601553
+            },
+            {
+              'station_name': 'Тверская',
+              'line_name': 'Замоскворецкая',
+              'station_id': '2.122',
+              'line_id': '2',
+              'lat': 55.765343,
+              'lng': 37.603918
+            }
+          ],
+          'id': '14491895'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-11-11T12:15:13+0300',
+        'created_at': '2024-11-11T12:15:13+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=110623307',
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/110623307?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/110623307',
+        'relations': [],
+        'employer': {
+          'id': '10413982',
+          'name': 'Agalarov Development',
+          'url': 'https://api.hh.ru/employers/10413982',
+          'alternate_url': 'https://hh.ru/employer/10413982',
+          'logo_urls': None,
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=10413982',
+          'accredited_it_employer': False,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Грамотная речь, обучаемость, желание работать, опрятность, ответственность, пунктуальность. Опыт работы с ресторанными программами приветствуется (R-keeper). Презентабельный внешний вид. ',
+          'responsibility': 'Подготовка бара к открытию/закрытию. Обеспечение высокого уровня сервиса. Соблюдение и поддержание чистоты на рабочем месте. Пополнение ассортимента на баре. '
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'fullDay',
+          'name': 'Полный день'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '89',
+            'name': 'Официант, бармен, бариста'
+          }
+        ],
+        'accept_incomplete_resumes': True,
+        'experience': {
+          'id': 'between1And3',
+          'name': 'От 1 года до 3 лет'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '108255986',
+        'premium': False,
+        'name': 'Кассир (Горный курорт «Шымбулак»)',
+        'department': None,
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '160',
+          'name': 'Алматы',
+          'url': 'https://api.hh.ru/areas/160'
+        },
+        'salary': {
+          'from': 260000,
+          'to': None,
+          'currency': 'KZT',
+          'gross': False
+        },
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': 'Алматы',
+          'street': 'Медеуский район, улица Керей-Жанибек Хандар',
+          'building': '640/1',
+          'lat': 43.16294,
+          'lng': 77.051493,
+          'description': None,
+          'raw': 'Алматы, Медеуский район, улица Керей-Жанибек Хандар, 640/1',
+          'metro': None,
+          'metro_stations': [],
+          'id': '6866445'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-11-13T14:59:24+0300',
+        'created_at': '2024-11-13T14:59:24+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=108255986',
+        'show_logo_in_search': None,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/108255986?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/108255986',
+        'relations': [],
+        'employer': {
+          'id': '1083528',
+          'name': 'Chimbulak Development',
+          'url': 'https://api.hh.ru/employers/1083528',
+          'alternate_url': 'https://hh.ru/employer/1083528',
+          'logo_urls': {
+            '240': 'https://img.hhcdn.ru/employer-logo/6960651.png',
+            'original': 'https://img.hhcdn.ru/employer-logo-original/1335160.png',
+            '90': 'https://img.hhcdn.ru/employer-logo/6960650.png'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=1083528',
+          'accredited_it_employer': False,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Опыт работы на кассе либо с кассовыми операциями от 1 года (желательно). Знание казахского и русского языка, знание английского приветствуется. ',
+          'responsibility': 'Работа с клиентами курорта: прием оплат за услуги курорта, выписка билетов в программе AXESS. Консультирование клиентов по всем услугам курорта. '
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'fullDay',
+          'name': 'Полный день'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': True,
+        'professional_roles': [
+          {
+            'id': '40',
+            'name': 'Другое'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'between1And3',
+          'name': 'От 1 года до 3 лет'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '110238255',
+        'premium': False,
+        'name': 'Официант',
+        'department': {
+          'id': '10413982-10413982-emin',
+          'name': 'Restaurants by Emin Agalarov'
+        },
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': {
+          'from': 150000,
+          'to': 250000,
+          'currency': 'RUR',
+          'gross': False
+        },
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': 'Москва',
+          'street': 'Филёвская линия',
+          'building': 'метро Арбатская',
+          'lat': 55.75207,
+          'lng': 37.601367,
+          'description': None,
+          'raw': 'Москва, Филёвская линия, метро Арбатская',
+          'metro': {
+            'station_name': 'Александровский сад',
+            'line_name': 'Филевская',
+            'station_id': '4.6',
+            'line_id': '4',
+            'lat': 55.752255,
+            'lng': 37.608775
+          },
+          'metro_stations': [
+            {
+              'station_name': 'Александровский сад',
+              'line_name': 'Филевская',
+              'station_id': '4.6',
+              'line_id': '4',
+              'lat': 55.752255,
+              'lng': 37.608775
+            },
+            {
+              'station_name': 'Арбатская',
+              'line_name': 'Арбатско-Покровская',
+              'station_id': '3.5',
+              'line_id': '3',
+              'lat': 55.752312,
+              'lng': 37.60349
+            },
+            {
+              'station_name': 'Арбатская',
+              'line_name': 'Филевская',
+              'station_id': '4.11',
+              'line_id': '4',
+              'lat': 55.752122,
+              'lng': 37.601553
+            },
+            {
+              'station_name': 'Тверская',
+              'line_name': 'Замоскворецкая',
+              'station_id': '2.122',
+              'line_id': '2',
+              'lat': 55.765343,
+              'lng': 37.603918
+            }
+          ],
+          'id': '14491895'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-11-06T13:08:55+0300',
+        'created_at': '2024-11-06T13:08:55+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=110238255',
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/110238255?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/110238255',
+        'relations': [],
+        'employer': {
+          'id': '10413982',
+          'name': 'Agalarov Development',
+          'url': 'https://api.hh.ru/employers/10413982',
+          'alternate_url': 'https://hh.ru/employer/10413982',
+          'logo_urls': None,
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=10413982',
+          'accredited_it_employer': False,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Индивидуальность и способность найти контакт с гостем. Опыт работы в ресторанах премиум сегмента обязателен. Проактивность и желание развиваться в своей...',
+          'responsibility': 'Создание атмосферы гостеприимства и обслуживание гостей согласно стандартам сервиса. Подготовка ресторана к открытию и закрытию. Коммуникация с гостями, получение обратной...'
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'flexible',
+          'name': 'Гибкий график'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '89',
+            'name': 'Официант, бармен, бариста'
+          }
+        ],
+        'accept_incomplete_resumes': True,
+        'experience': {
+          'id': 'between1And3',
+          'name': 'От 1 года до 3 лет'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '110867496',
+        'premium': False,
+        'name': 'Специалист технической поддержки',
+        'department': None,
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': None,
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': 'Москва',
+          'street': 'Цветной бульвар',
+          'building': '2',
+          'lat': 55.768025,
+          'lng': 37.623483,
+          'description': None,
+          'raw': 'Москва, Цветной бульвар, 2',
+          'metro': None,
+          'metro_stations': [],
+          'id': '14101481'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-11-13T11:46:53+0300',
+        'created_at': '2024-11-13T11:46:53+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=110867496',
+        'show_logo_in_search': None,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/110867496?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/110867496',
+        'relations': [],
+        'employer': {
+          'id': '5845348',
+          'name': 'Bms Development Group',
+          'url': 'https://api.hh.ru/employers/5845348',
+          'alternate_url': 'https://hh.ru/employer/5845348',
+          'logo_urls': {
+            'original': 'https://img.hhcdn.ru/employer-logo-original/909642.png',
+            '240': 'https://img.hhcdn.ru/employer-logo/4079256.png',
+            '90': 'https://img.hhcdn.ru/employer-logo/4079255.png'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=5845348',
+          'accredited_it_employer': False,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Релевантный опыт работы > 3-х лет. Высшее образование. Уверенные навыки работы с клиентскими ОС Windows 7 -11, MacOs, Linux. (',
+          'responsibility': 'Работа на первом уровне технической поддержки пользователей. Настройка, тестирование, установка и модернизация компьютерного оборудования, периферийных устройств и программного обеспечения, организация...'
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'fullDay',
+          'name': 'Полный день'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '121',
+            'name': 'Специалист технической поддержки'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'between1And3',
+          'name': 'От 1 года до 3 лет'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '110789751',
+        'premium': False,
+        'name': 'Инженер проекта',
+        'department': None,
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '160',
+          'name': 'Алматы',
+          'url': 'https://api.hh.ru/areas/160'
+        },
+        'salary': None,
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': None,
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-11-12T13:35:50+0300',
+        'created_at': '2024-11-12T13:35:50+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=110789751',
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/110789751?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/110789751',
+        'relations': [],
+        'employer': {
+          'id': '10808234',
+          'name': 'BI Development Almaty',
+          'url': 'https://api.hh.ru/employers/10808234',
+          'alternate_url': 'https://hh.ru/employer/10808234',
+          'logo_urls': None,
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=10808234',
+          'accredited_it_employer': False,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Высшее техническое образование. Не менее 3-х лет работы по профилю. MS Office, AutoCad, MS Project, What’s App, Outlook...',
+          'responsibility': 'Осуществление контроля соответствия ПСД выданному заданию на проектирование, строительным нормам, правилам, стандартам и техническим условиям, нормам техники безопасности, производственной санитарии...'
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'fullDay',
+          'name': 'Полный день'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '48',
+            'name': 'Инженер-конструктор, инженер-проектировщик'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'between1And3',
+          'name': 'От 1 года до 3 лет'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '110668849',
+        'premium': False,
+        'name': 'Ведущий инженер ПТО',
+        'department': None,
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': {
+          'from': 172500,
+          'to': None,
+          'currency': 'RUR',
+          'gross': True
+        },
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': 'Москва',
+          'street': 'Тагильская улица',
+          'building': '4с3А',
+          'lat': 55.81776,
+          'lng': 37.751125,
+          'description': None,
+          'raw': 'Москва, Тагильская улица, 4с3А',
+          'metro': {
+            'station_name': 'Бульвар Рокоссовского',
+            'line_name': 'Сокольническая',
+            'station_id': '1.148',
+            'line_id': '1',
+            'lat': 55.814916,
+            'lng': 37.732227
+          },
+          'metro_stations': [
+            {
+              'station_name': 'Бульвар Рокоссовского',
+              'line_name': 'Сокольническая',
+              'station_id': '1.148',
+              'line_id': '1',
+              'lat': 55.814916,
+              'lng': 37.732227
+            }
+          ],
+          'id': '2565679'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-11-11T17:20:39+0300',
+        'created_at': '2024-11-11T17:20:39+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=110668849',
+        'show_logo_in_search': None,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/110668849?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/110668849',
+        'relations': [],
+        'employer': {
+          'id': '46926',
+          'name': 'AFI Development',
+          'url': 'https://api.hh.ru/employers/46926',
+          'alternate_url': 'https://hh.ru/employer/46926',
+          'logo_urls': {
+            'original': 'https://img.hhcdn.ru/employer-logo-original/222091.JPG',
+            '90': 'https://img.hhcdn.ru/employer-logo/319545.jpeg',
+            '240': 'https://img.hhcdn.ru/employer-logo/392402.jpeg'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=46926',
+          'accredited_it_employer': False,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Высшее строительное образование (ПГС). Аналогичный опыт работы со стороны Застройщика / Технического заказчика/ Генподрядчика от 3 лет. Знание технологий строительного производства. ',
+          'responsibility': 'Подготовка, приемка, оформление, комплектование исполнительной документации по объекту. Сверка объемов ВОР, форм актов КС-2 и исполнительной документации. '
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'fullDay',
+          'name': 'Полный день'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '47',
+            'name': 'Инженер ПТО, инженер-сметчик'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'between1And3',
+          'name': 'От 1 года до 3 лет'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '110444372',
+        'premium': False,
+        'name': 'Руководитель сметно-экономического отдела',
+        'department': None,
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': None,
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': 'Москва',
+          'street': 'Цветной бульвар',
+          'building': '2',
+          'lat': 55.768025,
+          'lng': 37.623483,
+          'description': None,
+          'raw': 'Москва, Цветной бульвар, 2',
+          'metro': None,
+          'metro_stations': [],
+          'id': '14101481'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-11-08T17:20:38+0300',
+        'created_at': '2024-11-08T17:20:38+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=110444372',
+        'show_logo_in_search': None,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/110444372?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/110444372',
+        'relations': [],
+        'employer': {
+          'id': '5845348',
+          'name': 'Bms Development Group',
+          'url': 'https://api.hh.ru/employers/5845348',
+          'alternate_url': 'https://hh.ru/employer/5845348',
+          'logo_urls': {
+            'original': 'https://img.hhcdn.ru/employer-logo-original/909642.png',
+            '240': 'https://img.hhcdn.ru/employer-logo/4079256.png',
+            '90': 'https://img.hhcdn.ru/employer-logo/4079255.png'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=5845348',
+          'accredited_it_employer': False,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Релевантный опыт работы > 3-х лет. Высшее образование (экономическое предпочтительно). Знание коммерческих расценок на ПИР и СМР. Опыт работы в...',
+          'responsibility': 'Определение стоимости строительства объектов на всех стадиях жизненного цикла проектов. Анализ эффективности проектов/коммерческих предложений на предмет корректности наименования и...'
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'fullDay',
+          'name': 'Полный день'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '142',
+            'name': 'Экономист'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'noExperience',
+          'name': 'Нет опыта'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      }
+    ],
+    'found': 237,
+    'pages': 12,
+    'page': 0,
+    'per_page': 20,
+    'clusters': None,
+    'arguments': None,
+    'fixes': None,
+    'suggests': None,
+    'alternate_url': 'https://hh.ru/search/vacancy?employer_id=872241&employer_id=10413982&employer_id=11169700&employer_id=11337555&employer_id=5724503&employer_id=10808234&employer_id=5845348&employer_id=1083528&employer_id=11156224&employer_id=46926&enable_snippets=true'
+  }
+]
