@@ -78,32 +78,33 @@ def save_data_to_db(
             # Вставка данных о вакансиях, связанных с работодателем
             if employer_id:
                 for vacancy in vacancies_data:
-                    if vacancy["salary"]:
-                        salary_from = vacancy["salary"].get("from")
-                        salary_to = vacancy["salary"].get("to")
-                        currency = vacancy["salary"].get("currency")
-                    else:
-                        salary_from, salary_to, currency = None, None, None
+                    if vacancy['employer']['id'] == employer['id']:
+                        if vacancy["salary"]:
+                            salary_from = vacancy["salary"].get("from")
+                            salary_to = vacancy["salary"].get("to")
+                            currency = vacancy["salary"].get("currency")
+                        else:
+                            salary_from, salary_to, currency = None, None, None
 
-                    cur.execute(
-                        """
-                        INSERT INTO vacancies (vacancy_id, employer_id, vacancy_name,
-                        salary_from, salary_to, currency, published_at, url, prof_role, employment)
-                        VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
-                        ON CONFLICT (vacancy_id) DO NOTHING
-                    """,
-                        (
-                            vacancy["id"],
-                            employer_id,
-                            vacancy["name"],
-                            salary_from,
-                            salary_to,
-                            currency,
-                            vacancy["published_at"],
-                            vacancy["alternate_url"],
-                            vacancy["professional_roles"][0]["name"],
-                            vacancy["employment"]["name"],
-                        ),
-                    )
+                        cur.execute(
+                            """
+                            INSERT INTO vacancies (vacancy_id, employer_id, vacancy_name,
+                            salary_from, salary_to, currency, published_at, url, prof_role, employment)
+                            VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+                            ON CONFLICT (vacancy_id) DO NOTHING
+                        """,
+                            (
+                                vacancy["id"],
+                                employer_id,
+                                vacancy["name"],
+                                salary_from,
+                                salary_to,
+                                currency,
+                                vacancy["published_at"],
+                                vacancy["alternate_url"],
+                                vacancy["professional_roles"][0]["name"],
+                                vacancy["employment"]["name"],
+                            ),
+                        )
     conn.commit()
     conn.close()
